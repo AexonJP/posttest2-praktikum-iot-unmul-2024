@@ -4,7 +4,7 @@ Nama dan NIM anggota kelompok :
 
 Judul studi kasus :
    
-- monitor dan kontrol value Komponen LED dan buzzer dengan NodeMCU
+- monitor dan kontrol value Komponen LED, button dan buzzer dengan NodeMCU
    
 Deskripsi :
    - dari esp akan mengirimkan data ke dalam server berupa ping tentang data yang ada pada esp seperti terang dan nyaring dari buzzer.
